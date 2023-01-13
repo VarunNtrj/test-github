@@ -1,3 +1,3 @@
 # Test-Repo
 
-This repository contains a index.html which creates a webpage 
+This repository contains an index.html which creates a webpage 
