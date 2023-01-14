@@ -29,7 +29,7 @@ body{
     color: azure;
 }
 .link-secondary{
-    background-color: var(--primary-color);
+    background-color: azure;
     border-radius: 0.5rem;
     border: 1px solid var;
     (--primary-color);
