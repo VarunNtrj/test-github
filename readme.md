@@ -1,4 +1,4 @@
-# My Portfolio-Repo
+# My Portfolio
 
 This repository contains an index.html which is the homepage of the portfolio varunnataraj.netlify.app 
 
